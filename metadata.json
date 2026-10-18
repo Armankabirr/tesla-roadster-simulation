@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Roadster 2026: Plaid Flight",
+  "description": "High-speed 3D driving experience featuring the 2026 Tesla Roadster with SpaceX cold-gas thruster package, Plaid hyper-acceleration, and futuristic neon highways.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
